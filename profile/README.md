@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 	<a href="https://github.com/BigstoneDevelopment">
-		<img src="https://github.com/BigstoneDevelopment/.github/blob/main/profile/banner.gif?raw=true" alt="Logo" width="780" height="200" />
+		<img src="https://github.com/BigstoneDevelopment/.github/blob/main/profile/banner.gif?raw=true" alt="Logo" width="600" height="150" />
 	</a>
 
 <p align="center">
