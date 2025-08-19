@@ -1,7 +1,7 @@
 <div align="center">
 	
 <a href="https://github.com/BigstoneDevelopment">
-	<img src="https://github.com/BigstoneDevelopment/.github/blob/main/profile/banner.gif?raw=true" alt="Logo" width="600"/>
+	<img src="https://github.com/BigstoneDevelopment/.github/blob/main/profile/banner.png?raw=true" alt="Logo" width="600"/>
 </a>
 
 <p align="center">
